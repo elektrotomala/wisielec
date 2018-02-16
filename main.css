@@ -1,0 +1,13 @@
+div {
+border: solid red 5px; 
+width: 400px; 
+height: 100px;
+color: blue;
+font-size: 2em;
+text-align: center;
+    }
+
+div p {
+    vertical-align: middle;
+}
+
