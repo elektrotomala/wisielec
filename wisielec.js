@@ -63,6 +63,7 @@ alert("Zgadłeś! Szukane słowo to " + odpowiedzi.join(""));
 }
 else {
 alert("Może uda się następnym razem. Szukane słowo to: " + slowo);
+    document.getElementById('peprostokat').innerHTML = slowo;
 }
 
 
